@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Sensitive account sessions (NEVER COMMIT SESSIONS/COOKIES)
+accounts.json
+
+# Local runtime state and history
+state.json
+scratch/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.log

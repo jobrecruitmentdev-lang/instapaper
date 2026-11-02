@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Account 1",
+    "cookie": "PASTE_ACCOUNT_1_COOKIE_HERE",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "name": "Account 2",
+    "cookie": "PASTE_ACCOUNT_2_COOKIE_HERE",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "name": "Account 3",
+    "cookie": "PASTE_ACCOUNT_3_COOKIE_HERE",
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "name": "Account 4",
+    "cookie": "PASTE_ACCOUNT_4_COOKIE_HERE",
+    "enabled": true
+  },
+  {
+    "id": 5,
+    "name": "Account 5",
+    "cookie": "PASTE_ACCOUNT_5_COOKIE_HERE",
+    "enabled": true
+  },
+  {
+    "id": 6,
+    "name": "Account 6",
+    "cookie": "PASTE_ACCOUNT_6_COOKIE_HERE",
+    "enabled": true
+  },
+  {
+    "id": 7,
+    "name": "Account 7",
+    "cookie": "PASTE_ACCOUNT_7_COOKIE_HERE",
+    "enabled": true
+  }
+]
